@@ -127,8 +127,8 @@
       </div>
     </div>
     
-    <script src="js/three.min.js"></script>
-    <script src="js/panolens.min.js"></script>
+    <!-- <script src="js/three.min.js"></script>
+    <script src="js/panolens.min.js"></script>-->
 
     
     <?php
